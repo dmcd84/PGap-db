@@ -1,0 +1,4 @@
+plugins
+www/res/icon
+www/res/screen
+platforms/browser/cordova/node_modules
